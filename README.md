@@ -1,6 +1,6 @@
 # Custom ESP32-S3 Spotify Controller Macro-Pad
 
-An original hardware macro-pad designed from scratch to provide physical control over Spotify and computer audio. This project features mechanical keyswitches, a rotary encoder for volume tracking, and an integrated display for media status.
+A hardware macro-pad designed from scratch to provide physical control over Spotify and computer audio. This project features mechanical keyswitches, a rotary encoder for volume tracking, and an integrated display for media status.
 
 ---
 
