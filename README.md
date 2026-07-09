@@ -28,11 +28,14 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 <img width="1410" height="2000" alt="pulse_zine_page" src="https://github.com/user-attachments/assets/d301f5fb-bad1-42ee-87c2-a704628e2532" />
 
+---
 
 ## Mechanical & CAD Design
 
-The case is a two-part shell that puts the top piece and bottom base together so it fits without needing tape or glue.
+**[Click here to view the Onshape 3D CAD Assembly & Source Files](https://cad.onshape.com/documents/9e875fa0eb3d29beb0a7e423/w/634ce2adc409bcbb121e172c/e/cf97eb71c9d871e1e5143c14?renderMode=0&uiState=6a4ff6f2a2ceed4e681c1004)**
 
-* **Material Clearances:** The switch holes are slightly larger than they need to be so that they don't get stuck if the 3D print shrinks or over-extrudes a bit
+The case is a two-part shell (top piece and bottom base) that is secured together using **M2/M3 mechanical screws through internal mounting standoffs** that align with the PCB's mounting holes (H1–H4). This ensures a rigid, durable enclosure that holds the electronics firmly in place without relying on friction, tape, or glue.
+
+* **Material Clearances:** The switch holes are slightly larger than they need to be so that they don't get stuck if the 3D print shrinks or over-extrudes a bit.
 * **Flush Screen Housing:** The angled part for the screen meets the flat top completely flush so there isn't a weird lip sticking out.
 * **Vertical Component Stack:** The case is deep enough so the pins on the bottom of the PCB don't hit the bottom of the shell.
