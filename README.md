@@ -32,7 +32,7 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 ## Mechanical & CAD Design
 
-**[Click here to view the Onshape 3D CAD Assembly & Source Files](https://cad.onshape.com/documents/9e875fa0eb3d29beb0a7e423/w/634ce2adc409bcbb121e172c/e/cf97eb71c9d871e1e5143c14?renderMode=0&uiState=6a4ff6f2a2ceed4e681c1004)**
+**[Click here to view the Onshape 3D CAD Assembly & Source Files](https://cad.onshape.com/documents/9e875fa0eb3d29beb0a7e423/w/634ce2adc409bcbb121e172c/e/cf97eb71c9d871e1e5143c14)**
 
 The case is a two-part shell (top piece and bottom base) that is secured together using **M2/M3 mechanical screws through internal mounting standoffs** that align with the PCB's mounting holes (H1–H4). This ensures a rigid, durable enclosure that holds the electronics firmly in place without relying on friction, tape, or glue.
 
