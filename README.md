@@ -21,8 +21,9 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 ---
 
 ## Project Gallery
-![Full 3D Model Render](image_ac31a4.png)
-![PCB Schematic](schematic_image.png)
+
+<img width="1337" height="907" alt="Screenshot 2026-06-25 223707" src="https://github.com/user-attachments/assets/ee41c84d-de81-4c3b-bfb0-19ae9472c569" />
+<img width="2072" height="1057" alt="Screenshot 2026-07-09 151816" src="https://github.com/user-attachments/assets/e6da686d-15a7-4376-bcf5-c311a795d767" />
 ![Fallout Zine Page](zine_page.png)
 
 
