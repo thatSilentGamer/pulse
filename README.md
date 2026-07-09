@@ -22,7 +22,7 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 ## Project Gallery
 ![Full 3D Model Render](image_ac31a4.png)
-![PCB Schematic](image.png)
+![PCB Schematic](schematic_image.png)
 ![Fallout Zine Page](zine_page.png)
 
 
