@@ -20,6 +20,12 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 ---
 
+## Project Gallery
+![Full 3D Model Render](image_ac31a4.png)
+![PCB Schematic](image.png)
+![Fallout Zine Page](zine_page.png)
+
+
 ## Mechanical & CAD Design
 
 The case is a two-part shell that puts the top piece and bottom base together so it fits without needing tape or glue.
