@@ -52,7 +52,6 @@ The case is a two-part shell (top piece and bottom base) that is secured togethe
 ## Build Guide & Instructions
 
 ### 1. Bill of Materials (BOM)
-### 1. Bill of Materials (BOM)
 | Item Name | Size / Specs | Quantity | Cost (Each) | Total Cost | Purchase Link |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | ESP32 | 38pin type c | 1 | $8.80 | $8.80 | [AliExpress Link](https://www.aliexpress.us/item/3256804511368849.html) |
