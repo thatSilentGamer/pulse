@@ -26,9 +26,13 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 <img width="2072" height="1057" alt="Screenshot 2026-07-09 151816" src="https://github.com/user-attachments/assets/e6da686d-15a7-4376-bcf5-c311a795d767" />
 
-<img width="1410" height="2000" alt="pulse_zine_page" src="https://github.com/user-attachments/assets/d301f5fb-bad1-42ee-87c2-a704628e2532" />
-
 <img width="1670" height="1072" alt="image" src="https://github.com/user-attachments/assets/6fe44595-0165-44b9-a5de-25a982202b8e" />
+
+<img width="1251" height="1141" alt="image" src="https://github.com/user-attachments/assets/390c3cc3-25f0-4e29-ac49-2c5dfe2823f5" />
+
+<img width="1245" height="1150" alt="image" src="https://github.com/user-attachments/assets/d9fe6acf-ab8b-4451-b7fe-fb26f97e98d4" />
+
+<img width="1410" height="2000" alt="pulse_zine_page" src="https://github.com/user-attachments/assets/d301f5fb-bad1-42ee-87c2-a704628e2532" />
 
 
 ---
