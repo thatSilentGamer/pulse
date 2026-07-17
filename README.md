@@ -28,6 +28,9 @@ I engineered this controller to bridge digital media apps with hardware. The goa
 
 <img width="1410" height="2000" alt="pulse_zine_page" src="https://github.com/user-attachments/assets/d301f5fb-bad1-42ee-87c2-a704628e2532" />
 
+<img width="1670" height="1072" alt="image" src="https://github.com/user-attachments/assets/6fe44595-0165-44b9-a5de-25a982202b8e" />
+
+
 ---
 
 ## Mechanical & CAD Design
